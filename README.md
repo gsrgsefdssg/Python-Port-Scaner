@@ -1,4 +1,4 @@
-# Python-Port-Scaner
+# Python-Port-Scanner
 ## Мой первый сканер портов 
 # Плюсы
 
