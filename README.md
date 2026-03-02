@@ -8,14 +8,18 @@
 
 -Сканирует до 2000 портов
 
--Минусы
+# Минусы
 
 -Не вижу😁
 
 ## My first port scanner
 -Pros
+
 -Asynchronous
+
 -Fast
+
 -Scans up to 2000 ports
--Cons
+# Cons
+
 -I don't see any 😁
